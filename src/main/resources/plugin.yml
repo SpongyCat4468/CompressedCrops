@@ -1,0 +1,7 @@
+name: CompressedCrops
+version: '${project.version}'
+main: me.spongycat.compressedcrops.CompressedCrops
+api-version: 1.19
+load: STARTUP
+authors: [SpongyCat]
+description: Make all crops compressable
